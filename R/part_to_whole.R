@@ -69,8 +69,8 @@ gg <- ggplot(tabla_long, aes(area = matricula, fill = sexo,
   geom_treemap_subgroup_text(place = "centre", grow = FALSE, colour = "grey40",
                              size = 22) +
   scale_fill_manual(values = c('#f4dba0', '#81d2cc')) +
-  labs(title = "Matrícula UC por área del \nconocimiento 2021",
-       subtitle = "Según sexo",
+  labs(title = "Matrícula UC pregrado \nprimer año 2021",
+       subtitle = "Según área del conocimiento y sexo",
        caption = "Base de datos mifuturo.cl \nEl area representa el tamaño de la matrícula") +
   theme_desuc +
   theme(legend.position = "none")
