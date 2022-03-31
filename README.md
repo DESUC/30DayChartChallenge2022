@@ -14,6 +14,8 @@ Nuestro blog [aquí](https://blog.desuc.cl/)
 
 ### Día 1: Part-to-whole 
 
+Este tipo de gráficos que se engloban en los "part-to-whole" permiten mostrar partes dentro de una variable. En este caso, se muestra la composición de la matrícula de pregrado de 1° año del año 2021 de la UC, considerando área del conocimiento, y sexo.
+
 - Datos para la elaboración del gráfico disponibles en la página web de [Mi futuro](https://www.mifuturo.cl/bases-de-datos-de-matriculados)
 - Código disponible [aquí](/R/part_to_whole.R)
 
