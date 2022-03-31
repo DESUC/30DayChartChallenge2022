@@ -12,4 +12,9 @@ Equipo [DESUC](http://sociologia.uc.cl/desuc/quienes-somos-desuc/)
 
 Nuestro blog [aquí](https://blog.desuc.cl/) 
 
+### Día 1: Part-to-whole 
 
+- Datos para la elaboración del gráfico disponibles en la página web de [Mi futuro](https://www.mifuturo.cl/bases-de-datos-de-matriculados)
+- Código disponible [aquí](/R/part_to_whole.R)
+
+![Día 1](output/part_to_whole_1.png)
