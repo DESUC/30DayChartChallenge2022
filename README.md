@@ -29,3 +29,12 @@ En este día el objetivo era reflejar gráficos con datos históricos. Para este
 - Código disponible [aquí](/R/03.historical.R)
 
 ![Día 3](output/historical_1.png)
+
+### Día 4: Flora
+
+El día 4 era de la Flora. Y lo interpretamos como tal. Hicimos un gráfico de barras apiladas sobre tipos de plantas y estados de conservación.
+
+- Datos para la elaboración del gráfico disponibles en la página web de [MMA](#Obtenida a partir de: https://clasificacionespecies.mma.gob.cl/)
+- Código disponible [aquí](/R/04.floral.R)
+
+![Día 4](output/day4_floral_1.png)
