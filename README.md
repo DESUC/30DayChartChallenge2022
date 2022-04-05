@@ -34,7 +34,17 @@ En este día el objetivo era reflejar gráficos con datos históricos. Para este
 
 El día 4 era de la Flora. Y lo interpretamos como tal. Hicimos un gráfico de barras apiladas sobre tipos de plantas y estados de conservación.
 
-- Datos para la elaboración del gráfico disponibles en la página web de [MMA](#Obtenida a partir de: https://clasificacionespecies.mma.gob.cl/)
+- Datos para la elaboración del gráfico disponibles en la página web de [MMA](https://clasificacionespecies.mma.gob.cl/)
 - Código disponible [aquí](/R/04.floral.R)
 
 ![Día 4](output/day4_floral_1.png)
+
+
+### Día 5: Slopes
+
+El día 5 era Slopes. Los gráficos de pendientes son útiles para observar cambios entre un estado y otro. En este caso usamos una pregunta de la Encuesta Bicentenario UC para ver sus cambios en las distintas mediciones.
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input, y en la página de [Bicentenario UC](https://encuestabicentenario.uc.cl/resultados/)
+- Código disponible [aquí](/R/05.slopes.R)
+
+![Día 5](output/slopes_1.png)
