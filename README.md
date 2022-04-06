@@ -48,3 +48,12 @@ El día 5 era Slopes. Los gráficos de pendientes son útiles para observar camb
 - Código disponible [aquí](/R/05.slopes.R)
 
 ![Día 5](output/slopes_1.png)
+
+### Día 6: Our World in Data
+
+El día 6 consistía en graficar comparaciones utilizando datos de Our World in Data. En el gráfico vemos la relación entre el índice de libertad de expresión y de asociación en distintos países del mundo según continente (dato curioso: para seleccionar los países utilizamos un muestreo aleatorio estratificado por continente con igual probabilidad de selección). Este tipo de gráficos son muy útiles para observar la relación entre variables numéricas o escalares.
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input, y en la página de [Our World in Data](https://ourworldindata.org/human-rights/)
+- Código disponible [aquí](/R/06.OWID.R)
+
+![Día 6](output/day6_OWID_1.png)
