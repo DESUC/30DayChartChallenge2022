@@ -57,3 +57,12 @@ El día 6 consistía en graficar comparaciones utilizando datos de Our World in 
 - Código disponible [aquí](/R/06.OWID.R)
 
 ![Día 6](output/day6_OWID_1.png)
+
+### Día 7: Physical
+
+El día 7 comprendía gráficos asociados a Distribuciones siendo la temática "physical". Para ello se interpretó usando la canción de Dua Lipa y observando la distribución de las visualizaciones de la canción en Youtube.
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input.
+- Código disponible [aquí](/R/07.physical.R)
+
+![Día 7](output/physical_1.png)
