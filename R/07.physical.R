@@ -45,7 +45,7 @@ p2 <- ggplot(dua2, aes(x=as.factor(id), y=vis)) +
             fontface="bold", alpha=0.7, size=5, angle= label_data$angle, inherit.aes = FALSE ) +
   labs(title = "Physical - Dua Lipa",
        subtitle = "Visualizaciones en youtube",
-       caption = "Datos extraídos de: https://kworb.net/youtube/video/9HDEHj2yzew.html \n Las barras representan la cantidad de visualizaciones del video Physical de Dua Lipa en Youtube")  +
+       caption = "Datos extraídos de: \nhttps://kworb.net/youtube/video/9HDEHj2yzew.html \nLas barras representan la cantidad de visualizaciones \ndel video Physical de Dua Lipa en Youtube")  +
   theme_desuc  +
   theme(
     legend.position = "none",
