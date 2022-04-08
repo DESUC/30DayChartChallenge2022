@@ -66,3 +66,12 @@ El día 7 comprendía gráficos asociados a Distribuciones siendo la temática "
 - Código disponible [aquí](/R/07.physical.R)
 
 ![Día 7](output/physical_1.png)
+
+### Día 8: Mountain
+
+El día 8 comprendía gráficos asociados a Distribuciones siendo la temática "mountain". Para ello se realizó un gráfico musical.
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input.
+- Código disponible [aquí](/R/08.mountain.R)
+
+![Día 8](output/mountain_2.png)
