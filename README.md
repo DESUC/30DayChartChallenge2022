@@ -76,6 +76,15 @@ El día 8 comprendía gráficos asociados a Distribuciones siendo la temática "
 
 ![Día 8](output/mountain_2.png)
 
+### Día 10: Experimental
+
+El día 10 comprendía gráficos asociados a Distribuciones siendo la temática "experimental". Nuestro equipo lo reinterpretó desde una canción de Daddy Yankee, dada su eminente visita a nuestro país.
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input.
+- Código disponible [aquí](/R/10. experiment.R)
+
+![Día 10](output/experiment_1.gif)
+
 ### Día 12: The Economist theme
 
 El día 12 comprendía realizar un gráfico siguiendo los [lineamientos gráficos][econ] de la revista The Economist. Creamos un gráfico similar a lo que en la guía llaman "Thermometer chart". 
