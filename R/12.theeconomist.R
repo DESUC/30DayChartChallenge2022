@@ -11,7 +11,7 @@ library(patchwork)
 
 library(showtext)
 
-df_base <- readRDS('input/13.df_bicen_22_probabilidad_sexo_edad_nse.rds')
+df_base <- readRDS('input/12.df_bicen_22_probabilidad_sexo_edad_nse.rds')
 
 # Datos de Encuesta Bicentenario 2022.
 # 
@@ -47,11 +47,10 @@ df_grafico <- df_grafico |>
   filter(pregunta_cat != 'Otro')
 
 # Ajuste de texto de preguntas para eje Y.
-df_grafico$pregunta_eje <- df_grafico$pregunta_lab |> 
-  str_extract('^\\(.*\\)') |> 
-  str_remove_all('[\\(\\)]') |> 
-  str_wrap(width = 40)
-
+df_grafico$pregunta_eje <- fct_relabel(df_grafico$pregunta_lab,
+                                       ~str_extract(., '^\\(.*\\)') |> 
+                                         str_remove_all('[\\(\\)]') |> 
+                                         str_wrap(width = 40))
 
 # Thermometer chart según The Economist.
 # 
