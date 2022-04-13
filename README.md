@@ -109,3 +109,14 @@ El día 13 veremos cómo el número de actrices parte de un elenco en una pelíc
 ![Día 13](output/day13_unido.png)
 
 ![Día 13](output/day13_correlacion.png)
+
+### Día 14: 3D
+
+No somos big-fans de los gráficos 3D, pero sí que somos obedientes y el día de hoy nos corresponde un gráfico en esa modalidad. Acá les mostramos la relación entre comunas del Gran Santiago y el promedio de ingreso total por concepto de trabajo (según datos de Casen 2020). Señalamos con flechas las comunas donde está el máximo y el mínimo ¿pueden identificarlas?
+
+Los gráficos 3D hay que utilizarlos con cuidado, pero en este caso se puede ver con claridad la gran diferencia en ingreso entre comunas de nuestra capital.
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input, y en la página de [Casen](http://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen-en-pandemia-2020#:~:text=Los%20objetivos%20de%20Casen%20en,%2C%20vivienda%2C%20trabajo%20e%20ingresos/)
+- Código disponible [aquí](/R/14.relations3D.R)
+
+![Día 14](output/day14.mp4)
