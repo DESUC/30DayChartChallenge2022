@@ -97,3 +97,15 @@ Utilizamos las mismas preguntas mostradas para el desafío de *Slopes*, diferenc
 - Código disponible [aquí](/R/12.theeconomist.R)
 
 ![Día 12](output/12-the_economist_1.png)
+
+### Día 13: Correlación
+
+El día 13 veremos cómo el número de actrices parte de un elenco en una película ha ido aumentando desde el 2000 en adelante, en relación al aumento de producciones dirigidos por mujeres. En el 2017 hubo una gran cantidad de películas dirigidas por mujeres, y por eso, pusimos algunos ejemplos para ver. En el 2021 [Titane](https://letterboxd.com/film/titane/) ganó la Palma de Oro en el Festival de Cannes, de la directora Julia Ducournau, y en los Oscar por dos años consecutivos han ganado mujeres en la mejor dirección: Cjloé Zhao con [Nomadland](https://letterboxd.com/film/nomadland/) y Jane Campion con [The Power of the Dog](https://letterboxd.com/film/the-power-of-the-dog/).
+
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input o en el siguiente [link](https://github.com/taubergm/HollywoodGenderData).
+- Código disponible [aquí](/R/13.correlacion.R)
+
+![Día 13](output/day13_unido.png)
+
+![Día 13](output/day13_correlacion.png)
