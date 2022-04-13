@@ -180,7 +180,7 @@ gg_final <- (gg_sexo + gg_nse) +
 gg_final
 
 # Elemento adicionales
-ragg::agg_png("output/16-the_economist_1.png", 
+ragg::agg_png("output/12-the_economist_1.png", 
               width = 25, height = 15, res = 300,
               units = "cm")
 
