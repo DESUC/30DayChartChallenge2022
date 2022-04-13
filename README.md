@@ -75,3 +75,16 @@ El día 8 comprendía gráficos asociados a Distribuciones siendo la temática "
 - Código disponible [aquí](/R/08.mountain.R)
 
 ![Día 8](output/mountain_2.png)
+
+### Día 12: The Economist theme
+
+El día 12 comprendía realizar un gráfico siguiendo los [lineamientos gráficos][econ] de la revista The Economist. Creamos un gráfico similar a lo que en la guía llaman "Thermometer chart". 
+Puede ser útil para comparar y marcar brechas entre segmentos. 
+Utilizamos las mismas preguntas mostradas para el desafío de *Slopes*, diferenciando la respuesta de 2021 según sexo y nivel socioeconómico.
+
+[econ]:https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input.
+- Código disponible [aquí](/R/12.theeconomist.R)
+
+![Día 12](output/12-the_economist_1.png)
