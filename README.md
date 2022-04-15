@@ -120,3 +120,12 @@ Los gráficos 3D hay que utilizarlos con cuidado, pero en este caso se puede ver
 - Código disponible [aquí](/R/14.relations3D.R)
 
 ![Día 14](output/day14.mp4)
+
+### Día 15: Multivariado
+
+En la vida nos encantan muchas cosas, pero especialmente los fines de semana largos para maratonear viendo TV y el paquete de R ggplot, con su gran capacidad de mostrar de manera gráfica múltiples variables a la vez. Por eso, en el gráfico de hoy del tema "multivariado", mezclamos esas cosas que amamos y les mostramos el ranking semanal top 5 de Netflix con las siguientes variables: nombre del programa, país y posición en el ranking. (Anteriormente en el desafío también hemos graficado más de dos variables, ¿pueden identificar qué graficos son?)
+
+- Datos para la elaboración del gráfico disponibles en la carpeta input, y en la página de los ranking de [Netflix](https://top10.netflix.com/)
+- Código disponible [aquí](/R/15.multivariate.R)
+
+![Día 15](output/day15_multivariate_1.png)
