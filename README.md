@@ -129,3 +129,12 @@ En la vida nos encantan muchas cosas, pero especialmente los fines de semana lar
 - Código disponible [aquí](/R/15.multivariate.R)
 
 ![Día 15](output/day15_multivariate_1.png)
+
+### Día 17: Conexiones
+
+La vida a veces nos da grandes coincidencias. Lorde se demora aproximadamente 4 años en sacar nuevos discos, lo cual está alineado con las elecciones presidenciales chilenas. Independiente de quién es electo, cabe preguntarse si Lorde es capaz de predecir cómo será ese periodo presidencial con el contenido de su música, después de todo, el periodo 2017-2021 hubo bastante Melodrama a nivel nacional e internacional, ¿cómo se definirá este periodo? ¿Leader of the New Regime o Fallen Fruit? 
+
+- Los datos para la elaboración de este gráfico están en el siguiente [link](https://www.google.com/).
+- Código disponible [aquí](/R/17.conexiones.R)
+
+![Día 17](output/day17_conexiones.png)
