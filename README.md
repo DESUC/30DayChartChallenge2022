@@ -138,3 +138,12 @@ La vida a veces nos da grandes coincidencias. Lorde se demora aproximadamente 4 
 - Código disponible [aquí](/R/17.conexiones.R)
 
 ![Día 17](output/day17_conexiones.png)
+
+### Día 18: Datos de OECD
+
+¿Los países que gastan más en educación obtienen mejores resultados en pruebas estandarizadas? Sabemos que es una pregunta de difícil respuesta, pero aquí les traemos datos para abrir el debate. En el gráfico se puede ver la relación entre % de gasto del PIB en educación y resultados de matemáticas de la prueba PISA en países OECD, para el año 2018 (últimos datos disponibles) Pareciera que no hay una relación tan clara, ¿qué opinan al respecto?
+
+- Los datos para la elaboración de este gráfico están en la carpeta input, en este [link](https://data.oecd.org/eduresource/education-spending.htm/), y también en [este](https://data.oecd.org/pisa/mathematics-performance-pisa.htm/)
+- Código disponible [aquí](/R/18.OECD.R)
+
+![Día 18](output/day18_OECD_1.png)
