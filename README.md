@@ -147,3 +147,13 @@ La vida a veces nos da grandes coincidencias. Lorde se demora aproximadamente 4 
 - Código disponible [aquí](/R/18.OECD.R)
 
 ![Día 18](output/day18_OECD_1.png)
+
+### Día 26: Interactivo
+
+La animación es una técnica para contar historias, desde aventuras fantásticas a historias reales. Por esa razón, nos preguntamos cuáles son las 100 películas de animación con mejores puntuaciones en IMDB. Como la idea de este gráfico es hacerlo interactivo, puedes revisar el nombre de las películas que están en la lista y su recaudación en la siguiente [página](https://snaraya.github.io/grafico_interactivo/).
+
+- Los datos los obtuvimos de la página de [IMDB](https://www.imdb.com/search/title/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=cd28805a-4e91-4f0f-b066-0db5ff4dd1a7&pf_rd_r=W8H952J28F0JHQ17MNWZ&pf_rd_s=right-6&pf_rd_t=15506&pf_rd_i=boxoffice&ref_=chtbo_gnr_3&genres=animation&explore=title_type,genres).
+- Código disponible [aquí](/R/26.interactivo.R)
+
+![Día 26](output/day26_interactivo.png)
+
